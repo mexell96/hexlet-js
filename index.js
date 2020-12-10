@@ -1,9 +1,5 @@
-console.log("Hello, Hexlet!");
+const FindSum = (a, b) => {
+  const c = a + b; return c;
+};
 
-import _ from "lodash";
-
-const inter = _.intersection([2, 1], [2, 3]);
-
-console.log(inter);
-
-console.log(_.last(["one", "two"]));
+console.log(FindSum);
