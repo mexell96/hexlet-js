@@ -6,4 +6,4 @@ const inter = _.intersection([2, 1], [2, 3]);
 
 console.log(inter);
 
-console.log(_.last(['one', 'two']));
+console.log(_.last(["one", "two"]));
